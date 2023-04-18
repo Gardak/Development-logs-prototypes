@@ -80,3 +80,32 @@ Hypothesis: Can the scanner be undestand and properly used to look for hidden it
 -Hidden item with big hitbox was hard to understand
 -Blue tint of hidden items worked well to find them
 -Bug when scanner only sees the terrain grass
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Remake prototype #2: ghost scanner
+Hypothesis: Adding a glow to help direct the attention of player towards the objectives and an enemy to increase tension
+
+-Auras could only be seen from close up and didn't help when the player was lost
+-Hard to decipher where and how to interact with the objectives
+-Feedbaack lacking when picking up the items
+-Playtesters forgot the objectives once in game
+-Players had trouble remembering the objectives
+-Low feedback for found runes
+-Should add lore/story to help with the level/game design and make it easier to understand
+-Player got stuck on the rock geometry when jumping
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Remake prototype #3: ghost sscanner
+Hypothesis: Adding lights and more diagetic elements to help guide the player
+
+-Added lights and visual cues removed some porpuse to the ghost scanner
+-Found bug when interacting with the altar before they should
+-Task UI felt out of place for some player
+-Visible fog from the enemy added tension to the chase
+-Locked and hidden mouse would add greatly to the immersion
+-Players could cheat the enemy by teleporting when touching the water
+-Light cues added to the hidden runestaones helpd the player a lot
+-Some players where attracted towards the red fog of the enemy
+-Hidden golden trees helped a lot with to find the runestones from afar
